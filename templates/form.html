@@ -8,18 +8,22 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-image: url('https://as1.ftcdn.net/v2/jpg/05/82/54/22/1000_F_582542283_YssKPNjjtuCTDTVljXKmYi9kQaug6O4B.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
             margin: 0;
             padding: 0;
+            color: #333;
         }
 
         .container {
             max-width: 600px;
             margin: 50px auto;
-            background-color: #fff;
+            background-color: rgba(255, 255, 255, 0.9);
             padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
         }
 
         h2 {
@@ -34,21 +38,27 @@
 
         label {
             font-weight: bold;
-            color: #666;
+            color: #555;
             display: block;
-            margin-bottom: 6px;
+            margin-bottom: 8px;
         }
 
         select,
         input[type="submit"] {
-            width: calc(100% - 24px);
+            width: 100%;
             padding: 12px;
             border: 1px solid #ccc;
             border-radius: 5px;
             box-sizing: border-box;
-            transition: border-color 0.3s;
+            transition: border-color 0.3s, box-shadow 0.3s;
             font-size: 16px;
             margin-top: 4px;
+        }
+
+        select:focus,
+        input[type="submit"]:focus {
+            border-color: #4CAF50;
+            box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
         }
 
         select {
@@ -68,7 +78,7 @@
             border: none;
             cursor: pointer;
             transition: background-color 0.3s;
-            width: 100%;
+            margin-top: 10px;
         }
 
         input[type="submit"]:hover {
