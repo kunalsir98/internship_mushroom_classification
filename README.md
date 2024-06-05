@@ -1,12 +1,17 @@
 ## Mushroom classification iNEURON INTERNSHIP
 DEPLOYEMENT- I HAVE NOT DEPLOYED TO ANY PLATFORM IT IS IN MY LOCAL MACHINE
 
+DOCUMENTATION
 
-HIGH LEVEL DOCUMENT (HLD) =  https://drive.google.com/file/d/1GfTkEpaL-OxAzfBOIGVueOhjq0jB-z_r/view?usp=sharing
-LOW LEVEL DOCUMENT (LLD) = https://drive.google.com/file/d/1xSIxt6bVvLfdrnJ6YWtIwMYoSlUv29BF/view?usp=sharing
-Architecture = https://drive.google.com/file/d/1uRa07JHzOsxw8Ryl2W6ULm3BX_q4nVZP/view?usp=sharing
-Wireframe Document =https://drive.google.com/file/d/135Hz99iDAAiaeOX90Jj8NYozn0vAKJbL/view?usp=sharing
-Detailed Project Report (DPR)= https://drive.google.com/file/d/1X9146s3fV1hxH2HD05zpFmVU3ZScuM9N/view?usp=sharing
+1)HIGH LEVEL DOCUMENT (HLD) =  https://drive.google.com/file/d/1GfTkEpaL-OxAzfBOIGVueOhjq0jB-z_r/view?usp=sharing
+
+2)LOW LEVEL DOCUMENT (LLD) = https://drive.google.com/file/d/1xSIxt6bVvLfdrnJ6YWtIwMYoSlUv29BF/view?usp=sharing
+
+3)Architecture = https://drive.google.com/file/d/1uRa07JHzOsxw8Ryl2W6ULm3BX_q4nVZP/view?usp=sharing
+
+4)Wireframe Document =https://drive.google.com/file/d/135Hz99iDAAiaeOX90Jj8NYozn0vAKJbL/view?usp=sharing
+
+5)Detailed Project Report (DPR)= https://drive.google.com/file/d/1X9146s3fV1hxH2HD05zpFmVU3ZScuM9N/view?usp=sharing
 
 ABSTRACT : Mushrooms have been consumed since earliest history. The word Mushroom is derived from the French word for Fungi and Mold. Now-a-days, Mushroom are popular valuable food because they are low in calories, carbohydrate, Fat, sodium and also cholesterol free. Besides this, Mushroom provides important nutrients, including selenium, potassium, riboflavin, niacin, Vitamin D, proteins and fiber. All together with a long history as food source. Mushroom are important for their healing capacity and properties in traditional medicine. It has reported beneficial effects for health and treatment of some disease. Many nutraceutical properties are described in Mushroom like cancer and antitumor attributes. Mushroom act as antibacterial, immune system enhancer and cholesterol lowering Agent. Additionally, they are important source of bio-active compounds. This work is a machine learning model that classifies mushrooms into 2 classes: Poisonous and Edible depending on the features of the mushroom. During this machine learning implementation, we are going to see which features are important to predict whether a mushroom is poisonous or edible.
 
